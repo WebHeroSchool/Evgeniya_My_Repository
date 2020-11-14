@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="UTF-8">
+    <title>My first site</title>
+
+  </head>
+
+  <body>
+
+    <header>Start selection
+      <nav>
+        <a href="">one</a>
+        <a href="">two</a>
+        <a href="">three</a>
+      </nav>
+    </header>
+
+    <section>
+      <main>
+        <h1>The main part of Body</h1>
+        <p>subfield</p>
+      </main>
+      <button>Click</button>
+    </section>
+    <p>
+
+    </p>
+  </body>
+
+</html>
+
