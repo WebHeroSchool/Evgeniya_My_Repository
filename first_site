@@ -1,33 +1,30 @@
 <!DOCTYPE html>
 <html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="fonts.css">
+  <link rel="stylesheet" href="/style.css">
+  <title>My first site</title>
+  
+</head>
+<body>
 
-  <head>
-    <meta charset="UTF-8">
-    <title>My first site</title>
+<header>Start selection
+<nav>
+  <a href="">one</a>
+  <a href="">two</a>
+  <a href="">three</a>
+</nav>
+</header>
+<section>
+ <main>
+<h1>First heading</h1>
+<p>First paragraph</p>
+<p>Second paragraph</p>
+ </main>
+  <button>Click</button>
+</section>
 
-  </head>
-
-  <body>
-
-    <header>Start selection
-      <nav>
-        <a href="">one</a>
-        <a href="">two</a>
-        <a href="">three</a>
-      </nav>
-    </header>
-
-    <section>
-      <main>
-        <h1>The main part of Body</h1>
-        <p>subfield</p>
-      </main>
-      <button>Click</button>
-    </section>
-    <p>
-
-    </p>
-  </body>
-
+</body>
 </html>
 
