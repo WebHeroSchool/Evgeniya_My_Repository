@@ -1,7 +1,27 @@
-h1{
-  font-family: 'Roboto', sans-serif;
+.header{
+  font-size: 30px;
+ font-family: 'Xanh Mono', monospace;
+ }
+}
+.header__link{
+ font-size: 20px;
+ text-decoration: none;
+}
+.header__link_red{
+ font-size: 20px;
+ color: red;
+ 
 }
 
-p{
-  font-family: 'Xanh Mono', monospace;
+.header__link_small{
+ font-size: 12px
 }
+
+.header__title{
+ font-size: 20px;
+ font-family: 'Xanh Mono', monospace;
+}
+
+.header__paragraph{
+  font-size: 12px
+} 
